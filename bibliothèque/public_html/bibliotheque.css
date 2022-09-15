@@ -1,0 +1,46 @@
+
+/*table, td, tr, th{
+    border: black 2px ridge;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: 200px;
+}*/
+table{
+    border: black 2px ridge;
+    text-align: center;
+    border-collapse: collapse;
+    margin: auto;
+    width: 80%;
+}
+
+th, tr{
+    border: black 2px ridge;
+    width: 20%;
+}
+
+td{
+   border: black 2px ridge; 
+}
+
+td.titre{
+    background-color: #ff9999;
+
+}
+
+td.pasnum{
+    background-color: black;
+}
+
+td.pasauteur{
+    background-color: black;
+}
+
+td.numero{
+    background-color: #9999ff;
+
+}
+
+td.auteur{
+    background-color: #66ff66;
+
+}
